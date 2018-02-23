@@ -2,3 +2,8 @@
 	path = GertdeW/mitserv-addons
 	url = git@github.com:GertdeW/mitserv-addons.git
 	branch = master
+
+[submodule "OCA/account-invoicing"]
+	path = OCA/account-invoicing
+	url = git@github.com:OCA/account-invoicing.git
+	branch = 11.0
