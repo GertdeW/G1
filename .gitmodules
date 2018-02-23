@@ -1,0 +1,4 @@
+[submodule "GertdeW/mitserv-addons"]
+	path = GertdeW/mitserv-addons
+	url = git@github.com:GertdeW/mitserv-addons.git
+	branch = master
